@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tsukubako",
  "yomi": "つくばこかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "文化9年（1812）4月序",
+  "author": "土岐筑波子",
+  "desc": "進藤正幹の養女で土岐頼意の妻。真淵に学んだ筑波子の歌のうち、真淵が点を付けたものだけを自ら書き写した一巻による。清水浜臣が見出して序を書いた。"
+ },
  "editions": [
   {
    "pid": "993380",
